@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafaelespinal17
 - 👀 I’m interested in helping you
 - 🌱 I’m currently learning blockly, vue and firebase
-- 💞️ I’m looking to collaborate on speciales projects
+- 💞️ I’m looking to collaborate on special projects
 - 📫 How to reach me https://zhetum.site
 
 <!---
