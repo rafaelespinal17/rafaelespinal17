@@ -2,7 +2,7 @@
 - 👀 I’m interested in helping you
 - 🌱 I’m currently learning blockly, vue and firebase
 - 💞️ I’m looking to collaborate on speciales projects
-- 📫 How to reach me zhetum.site
+- 📫 How to reach me https://zhetum.site
 
 <!---
 rafaelespinal17/rafaelespinal17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
